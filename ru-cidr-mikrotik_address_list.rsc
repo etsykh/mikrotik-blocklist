@@ -1596,6 +1596,7 @@ add list=ru-ip address=80.243.0.0/20 timeout=240d
 add list=ru-ip address=80.243.64.0/20 timeout=240d
 add list=ru-ip address=80.243.128.0/20 timeout=240d
 add list=ru-ip address=80.244.0.0/24 timeout=240d
+add list=ru-ip address=80.244.5.0/24 timeout=240d
 add list=ru-ip address=80.244.32.0/20 timeout=240d
 add list=ru-ip address=80.244.224.0/20 timeout=240d
 add list=ru-ip address=80.245.112.0/20 timeout=240d
