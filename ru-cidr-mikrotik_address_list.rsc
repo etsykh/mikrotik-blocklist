@@ -3853,7 +3853,9 @@ add list=ru-ip address=93.180.0.0/18 timeout=240d
 add list=ru-ip address=93.180.136.0/21 timeout=240d
 add list=ru-ip address=93.181.192.0/18 timeout=240d
 add list=ru-ip address=93.182.0.0/18 timeout=240d
-add list=ru-ip address=93.183.64.0/19 timeout=240d
+add list=ru-ip address=93.183.64.0/20 timeout=240d
+add list=ru-ip address=93.183.80.0/22 timeout=240d
+add list=ru-ip address=93.183.88.0/21 timeout=240d
 add list=ru-ip address=93.183.104.0/21 timeout=240d
 add list=ru-ip address=93.183.112.0/21 timeout=240d
 add list=ru-ip address=93.183.124.0/22 timeout=240d
