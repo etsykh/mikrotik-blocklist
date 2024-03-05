@@ -2853,7 +2853,6 @@ add list=ru-ip address=91.216.205.0/24 timeout=240d
 add list=ru-ip address=91.216.208.0/24 timeout=240d
 add list=ru-ip address=91.216.211.0/24 timeout=240d
 add list=ru-ip address=91.216.212.0/24 timeout=240d
-add list=ru-ip address=91.216.217.0/24 timeout=240d
 add list=ru-ip address=91.217.2.0/23 timeout=240d
 add list=ru-ip address=91.217.4.0/23 timeout=240d
 add list=ru-ip address=91.217.8.0/22 timeout=240d
