@@ -7552,7 +7552,6 @@ add list=ru-ip address=194.190.0.0/16 timeout=240d
 add list=ru-ip address=194.213.12.0/24 timeout=240d
 add list=ru-ip address=194.213.18.0/24 timeout=240d
 add list=ru-ip address=194.213.21.0/24 timeout=240d
-add list=ru-ip address=194.213.25.0/24 timeout=240d
 add list=ru-ip address=194.213.96.0/23 timeout=240d
 add list=ru-ip address=194.213.102.0/23 timeout=240d
 add list=ru-ip address=194.213.110.0/23 timeout=240d
