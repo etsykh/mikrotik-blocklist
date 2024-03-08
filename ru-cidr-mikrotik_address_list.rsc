@@ -7676,7 +7676,7 @@ add list=ru-ip address=195.43.32.0/22 timeout=240d
 add list=ru-ip address=195.43.68.0/23 timeout=240d
 add list=ru-ip address=195.43.90.0/23 timeout=240d
 add list=ru-ip address=195.43.92.0/22 timeout=240d
-add list=ru-ip address=195.43.134.0/23 timeout=240d
+add list=ru-ip address=195.43.135.0/24 timeout=240d
 add list=ru-ip address=195.43.142.0/24 timeout=240d
 add list=ru-ip address=195.43.144.0/24 timeout=240d
 add list=ru-ip address=195.46.96.0/19 timeout=240d
