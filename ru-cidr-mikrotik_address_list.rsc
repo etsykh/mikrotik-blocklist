@@ -3823,7 +3823,6 @@ add list=ru-ip address=93.183.80.0/22 timeout=240d
 add list=ru-ip address=93.183.88.0/21 timeout=240d
 add list=ru-ip address=93.183.104.0/21 timeout=240d
 add list=ru-ip address=93.183.112.0/21 timeout=240d
-add list=ru-ip address=93.183.124.0/22 timeout=240d
 add list=ru-ip address=93.184.160.0/20 timeout=240d
 add list=ru-ip address=93.185.16.0/20 timeout=240d
 add list=ru-ip address=93.185.144.0/20 timeout=240d
