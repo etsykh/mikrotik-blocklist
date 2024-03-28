@@ -3763,7 +3763,6 @@ add list=ru-ip address=93.93.172.0/22 timeout=240d
 add list=ru-ip address=93.94.144.0/20 timeout=240d
 add list=ru-ip address=93.94.176.0/21 timeout=240d
 add list=ru-ip address=93.94.232.0/21 timeout=240d
-add list=ru-ip address=93.95.40.0/21 timeout=240d
 add list=ru-ip address=93.95.96.0/21 timeout=240d
 add list=ru-ip address=93.95.136.0/21 timeout=240d
 add list=ru-ip address=93.95.152.0/21 timeout=240d
