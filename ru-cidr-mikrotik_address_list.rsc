@@ -8038,7 +8038,6 @@ add list=ru-ip address=212.45.0.0/19 timeout=240d
 add list=ru-ip address=212.45.224.0/19 timeout=240d
 add list=ru-ip address=212.46.0.0/19 timeout=240d
 add list=ru-ip address=212.46.32.0/24 timeout=240d
-add list=ru-ip address=212.46.38.0/24 timeout=240d
 add list=ru-ip address=212.46.47.0/24 timeout=240d
 add list=ru-ip address=212.46.54.0/24 timeout=240d
 add list=ru-ip address=212.46.192.0/18 timeout=240d
