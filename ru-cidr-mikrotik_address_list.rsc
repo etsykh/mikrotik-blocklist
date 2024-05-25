@@ -1800,7 +1800,6 @@ add list=ru-ip address=84.242.0.0/21 timeout=240d
 add list=ru-ip address=84.242.192.0/18 timeout=240d
 add list=ru-ip address=84.244.0.0/18 timeout=240d
 add list=ru-ip address=84.246.105.0/24 timeout=240d
-add list=ru-ip address=84.246.110.0/24 timeout=240d
 add list=ru-ip address=84.252.128.0/20 timeout=240d
 add list=ru-ip address=84.252.144.0/21 timeout=240d
 add list=ru-ip address=84.252.152.0/22 timeout=240d
@@ -3516,7 +3515,6 @@ add list=ru-ip address=91.247.96.0/19 timeout=240d
 add list=ru-ip address=91.247.128.0/20 timeout=240d
 add list=ru-ip address=91.247.148.0/22 timeout=240d
 add list=ru-ip address=91.247.152.0/21 timeout=240d
-add list=ru-ip address=91.247.162.0/24 timeout=240d
 add list=ru-ip address=91.247.169.0/24 timeout=240d
 add list=ru-ip address=91.247.170.0/24 timeout=240d
 add list=ru-ip address=91.247.190.0/24 timeout=240d
@@ -3816,7 +3814,6 @@ add list=ru-ip address=94.103.83.0/24 timeout=240d
 add list=ru-ip address=94.103.84.0/22 timeout=240d
 add list=ru-ip address=94.103.88.0/22 timeout=240d
 add list=ru-ip address=94.103.92.0/23 timeout=240d
-add list=ru-ip address=94.103.178.0/24 timeout=240d
 add list=ru-ip address=94.103.188.0/24 timeout=240d
 add list=ru-ip address=94.103.224.0/20 timeout=240d
 add list=ru-ip address=94.124.114.0/24 timeout=240d
@@ -7259,7 +7256,6 @@ add list=ru-ip address=194.99.116.0/24 timeout=240d
 add list=ru-ip address=194.104.8.0/22 timeout=240d
 add list=ru-ip address=194.104.140.0/24 timeout=240d
 add list=ru-ip address=194.104.224.0/23 timeout=240d
-add list=ru-ip address=194.104.227.0/24 timeout=240d
 add list=ru-ip address=194.105.130.0/23 timeout=240d
 add list=ru-ip address=194.105.148.0/24 timeout=240d
 add list=ru-ip address=194.105.156.0/23 timeout=240d
@@ -7551,7 +7547,6 @@ add list=ru-ip address=195.62.70.0/23 timeout=240d
 add list=ru-ip address=195.62.78.0/23 timeout=240d
 add list=ru-ip address=195.62.92.0/23 timeout=240d
 add list=ru-ip address=195.64.101.0/24 timeout=240d
-add list=ru-ip address=195.64.105.0/24 timeout=240d
 add list=ru-ip address=195.64.140.0/22 timeout=240d
 add list=ru-ip address=195.64.156.0/23 timeout=240d
 add list=ru-ip address=195.64.192.0/19 timeout=240d
