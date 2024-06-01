@@ -6104,7 +6104,7 @@ add list=ru-ip address=185.231.56.0/24 timeout=240d
 add list=ru-ip address=185.231.152.0/22 timeout=240d
 add list=ru-ip address=185.231.204.0/22 timeout=240d
 add list=ru-ip address=185.231.232.0/24 timeout=240d
-add list=ru-ip address=185.231.240.0/21 timeout=240d
+add list=ru-ip address=185.231.244.0/22 timeout=240d
 add list=ru-ip address=185.232.16.0/22 timeout=240d
 add list=ru-ip address=185.232.28.0/22 timeout=240d
 add list=ru-ip address=185.232.60.0/22 timeout=240d
