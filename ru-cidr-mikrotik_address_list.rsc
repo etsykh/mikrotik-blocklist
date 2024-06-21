@@ -7690,7 +7690,7 @@ add list=ru-ip address=195.128.137.0/24 timeout=240d
 add list=ru-ip address=195.128.152.0/23 timeout=240d
 add list=ru-ip address=195.128.157.0/24 timeout=240d
 add list=ru-ip address=195.128.158.0/23 timeout=240d
-add list=ru-ip address=195.128.244.0/22 timeout=240d
+add list=ru-ip address=195.128.244.0/23 timeout=240d
 add list=ru-ip address=195.130.209.0/24 timeout=240d
 add list=ru-ip address=195.130.214.0/24 timeout=240d
 add list=ru-ip address=195.130.216.0/24 timeout=240d
