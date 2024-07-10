@@ -2652,7 +2652,7 @@ add list=ru-ip address=91.211.115.0/24 timeout=240d
 add list=ru-ip address=91.211.124.0/22 timeout=240d
 add list=ru-ip address=91.211.128.0/22 timeout=240d
 add list=ru-ip address=91.211.140.0/22 timeout=240d
-add list=ru-ip address=91.211.144.0/21 timeout=240d
+add list=ru-ip address=91.211.148.0/22 timeout=240d
 add list=ru-ip address=91.211.172.0/22 timeout=240d
 add list=ru-ip address=91.211.180.0/22 timeout=240d
 add list=ru-ip address=91.211.184.0/22 timeout=240d
