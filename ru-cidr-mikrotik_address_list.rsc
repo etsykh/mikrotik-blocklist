@@ -6003,7 +6003,8 @@ add list=ru-ip address=185.205.236.0/22 timeout=240d
 add list=ru-ip address=185.206.100.0/22 timeout=240d
 add list=ru-ip address=185.206.164.0/22 timeout=240d
 add list=ru-ip address=185.206.204.0/22 timeout=240d
-add list=ru-ip address=185.207.0.0/22 timeout=240d
+add list=ru-ip address=185.207.0.0/23 timeout=240d
+add list=ru-ip address=185.207.2.0/24 timeout=240d
 add list=ru-ip address=185.207.22.0/24 timeout=240d
 add list=ru-ip address=185.207.24.0/22 timeout=240d
 add list=ru-ip address=185.207.64.0/22 timeout=240d
