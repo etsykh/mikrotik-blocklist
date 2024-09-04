@@ -5382,7 +5382,6 @@ add list=ru-ip address=185.80.228.0/22 timeout=240d
 add list=ru-ip address=185.80.248.0/22 timeout=240d
 add list=ru-ip address=185.81.24.0/22 timeout=240d
 add list=ru-ip address=185.81.64.0/22 timeout=240d
-add list=ru-ip address=185.81.68.0/24 timeout=240d
 add list=ru-ip address=185.81.144.0/22 timeout=240d
 add list=ru-ip address=185.81.172.0/22 timeout=240d
 add list=ru-ip address=185.81.184.0/22 timeout=240d
