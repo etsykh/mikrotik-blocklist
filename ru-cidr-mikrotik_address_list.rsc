@@ -4943,7 +4943,6 @@ add list=ru-ip address=185.10.184.0/22 timeout=240d
 add list=ru-ip address=185.11.4.0/22 timeout=240d
 add list=ru-ip address=185.11.32.0/22 timeout=240d
 add list=ru-ip address=185.11.48.0/22 timeout=240d
-add list=ru-ip address=185.11.61.0/24 timeout=240d
 add list=ru-ip address=185.11.72.0/22 timeout=240d
 add list=ru-ip address=185.11.132.0/22 timeout=240d
 add list=ru-ip address=185.11.148.0/22 timeout=240d
