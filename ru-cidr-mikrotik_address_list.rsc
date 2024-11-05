@@ -4492,7 +4492,6 @@ add list=ru-ip address=176.99.0.0/20 timeout=240d
 add list=ru-ip address=176.99.56.0/21 timeout=240d
 add list=ru-ip address=176.99.64.0/18 timeout=240d
 add list=ru-ip address=176.99.128.0/17 timeout=240d
-add list=ru-ip address=176.100.42.0/24 timeout=240d
 add list=ru-ip address=176.100.64.0/18 timeout=240d
 add list=ru-ip address=176.100.128.0/19 timeout=240d
 add list=ru-ip address=176.100.216.0/21 timeout=240d
