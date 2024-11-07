@@ -2958,7 +2958,6 @@ add list=ru-ip address=91.223.144.0/24 timeout=240d
 add list=ru-ip address=91.223.153.0/24 timeout=240d
 add list=ru-ip address=91.223.170.0/24 timeout=240d
 add list=ru-ip address=91.223.176.0/24 timeout=240d
-add list=ru-ip address=91.223.178.0/24 timeout=240d
 add list=ru-ip address=91.223.181.0/24 timeout=240d
 add list=ru-ip address=91.223.188.0/24 timeout=240d
 add list=ru-ip address=91.223.217.0/24 timeout=240d
