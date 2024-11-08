@@ -653,7 +653,8 @@ add list=ru-ip address=45.95.232.0/22 timeout=240d
 add list=ru-ip address=45.128.184.0/22 timeout=240d
 add list=ru-ip address=45.128.204.0/24 timeout=240d
 add list=ru-ip address=45.128.206.0/23 timeout=240d
-add list=ru-ip address=45.129.76.0/22 timeout=240d
+add list=ru-ip address=45.129.76.0/23 timeout=240d
+add list=ru-ip address=45.129.79.0/24 timeout=240d
 add list=ru-ip address=45.129.142.0/23 timeout=240d
 add list=ru-ip address=45.129.152.0/22 timeout=240d
 add list=ru-ip address=45.129.184.0/22 timeout=240d
