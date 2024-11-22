@@ -7292,7 +7292,7 @@ add list=ru-ip address=194.147.32.0/22 timeout=240d
 add list=ru-ip address=194.147.48.0/22 timeout=240d
 add list=ru-ip address=194.147.114.0/23 timeout=240d
 add list=ru-ip address=194.147.148.0/23 timeout=240d
-add list=ru-ip address=194.147.214.0/23 timeout=240d
+add list=ru-ip address=194.147.214.0/24 timeout=240d
 add list=ru-ip address=194.147.224.0/24 timeout=240d
 add list=ru-ip address=194.147.246.0/23 timeout=240d
 add list=ru-ip address=194.147.249.0/24 timeout=240d
