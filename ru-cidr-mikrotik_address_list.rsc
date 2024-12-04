@@ -316,7 +316,7 @@ add list=ru-ip address=31.133.104.0/21 timeout=240d
 add list=ru-ip address=31.133.120.0/21 timeout=240d
 add list=ru-ip address=31.133.200.0/21 timeout=240d
 add list=ru-ip address=31.133.224.0/19 timeout=240d
-add list=ru-ip address=31.134.0.0/19 timeout=240d
+add list=ru-ip address=31.134.16.0/20 timeout=240d
 add list=ru-ip address=31.134.32.0/20 timeout=240d
 add list=ru-ip address=31.134.128.0/18 timeout=240d
 add list=ru-ip address=31.134.192.0/21 timeout=240d
