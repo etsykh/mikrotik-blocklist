@@ -569,6 +569,7 @@ add list=ru-ip address=45.12.228.0/22 timeout=240d
 add list=ru-ip address=45.12.236.0/22 timeout=240d
 add list=ru-ip address=45.14.20.0/22 timeout=240d
 add list=ru-ip address=45.14.223.0/24 timeout=240d
+add list=ru-ip address=45.15.64.0/22 timeout=240d
 add list=ru-ip address=45.15.112.0/22 timeout=240d
 add list=ru-ip address=45.15.156.0/22 timeout=240d
 add list=ru-ip address=45.15.253.0/24 timeout=240d
