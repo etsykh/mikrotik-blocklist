@@ -8420,7 +8420,6 @@ add list=ru-ip address=185.61.104.0/22 timeout=240d
 add list=ru-ip address=185.65.137.0/24 timeout=240d
 add list=ru-ip address=185.66.68.0/22 timeout=240d
 add list=ru-ip address=185.70.12.0/22 timeout=240d
-add list=ru-ip address=185.79.16.0/22 timeout=240d
 add list=ru-ip address=185.99.142.0/23 timeout=240d
 add list=ru-ip address=185.123.184.0/22 timeout=240d
 add list=ru-ip address=185.128.200.0/22 timeout=240d
