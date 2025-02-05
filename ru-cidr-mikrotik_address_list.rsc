@@ -678,7 +678,6 @@ add list=ru-ip address=45.132.184.0/22 timeout=240d
 add list=ru-ip address=45.133.96.0/22 timeout=240d
 add list=ru-ip address=45.133.148.0/22 timeout=240d
 add list=ru-ip address=45.133.243.0/24 timeout=240d
-add list=ru-ip address=45.134.12.0/22 timeout=240d
 add list=ru-ip address=45.134.60.0/22 timeout=240d
 add list=ru-ip address=45.134.64.0/22 timeout=240d
 add list=ru-ip address=45.134.124.0/22 timeout=240d
