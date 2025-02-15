@@ -6920,6 +6920,7 @@ add list=ru-ip address=193.200.250.0/24 timeout=240d
 add list=ru-ip address=193.201.8.0/24 timeout=240d
 add list=ru-ip address=193.201.30.0/23 timeout=240d
 add list=ru-ip address=193.201.88.0/22 timeout=240d
+add list=ru-ip address=193.201.98.0/24 timeout=240d
 add list=ru-ip address=193.201.111.0/24 timeout=240d
 add list=ru-ip address=193.201.115.0/24 timeout=240d
 add list=ru-ip address=193.201.118.0/23 timeout=240d
