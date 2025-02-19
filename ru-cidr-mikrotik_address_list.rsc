@@ -1088,7 +1088,7 @@ add list=ru-ip address=62.182.64.0/20 timeout=240d
 add list=ru-ip address=62.182.88.0/21 timeout=240d
 add list=ru-ip address=62.182.128.0/20 timeout=240d
 add list=ru-ip address=62.182.156.0/22 timeout=240d
-add list=ru-ip address=62.182.192.0/20 timeout=240d
+add list=ru-ip address=62.182.200.0/21 timeout=240d
 add list=ru-ip address=62.183.0.0/17 timeout=240d
 add list=ru-ip address=62.192.32.0/19 timeout=240d
 add list=ru-ip address=62.192.224.0/19 timeout=240d
