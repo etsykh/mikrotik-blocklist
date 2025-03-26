@@ -872,7 +872,7 @@ add list=ru-ip address=46.148.128.0/20 timeout=240d
 add list=ru-ip address=46.148.176.0/20 timeout=240d
 add list=ru-ip address=46.148.192.0/18 timeout=240d
 add list=ru-ip address=46.149.32.0/20 timeout=240d
-add list=ru-ip address=46.149.64.0/21 timeout=240d
+add list=ru-ip address=46.149.64.0/23 timeout=240d
 add list=ru-ip address=46.149.99.0/24 timeout=240d
 add list=ru-ip address=46.149.101.0/24 timeout=240d
 add list=ru-ip address=46.149.110.0/24 timeout=240d
