@@ -7602,7 +7602,7 @@ add list=ru-ip address=195.78.126.0/23 timeout=240d
 add list=ru-ip address=195.80.48.0/22 timeout=240d
 add list=ru-ip address=195.80.56.0/22 timeout=240d
 add list=ru-ip address=195.80.136.0/24 timeout=240d
-add list=ru-ip address=195.80.138.0/23 timeout=240d
+add list=ru-ip address=195.80.139.0/24 timeout=240d
 add list=ru-ip address=195.80.144.0/22 timeout=240d
 add list=ru-ip address=195.80.224.0/24 timeout=240d
 add list=ru-ip address=195.80.228.0/24 timeout=240d
