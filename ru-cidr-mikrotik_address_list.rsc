@@ -6675,7 +6675,6 @@ add list=ru-ip address=193.104.59.0/24 timeout=240d
 add list=ru-ip address=193.104.64.0/24 timeout=240d
 add list=ru-ip address=193.104.69.0/24 timeout=240d
 add list=ru-ip address=193.104.70.0/24 timeout=240d
-add list=ru-ip address=193.104.74.0/24 timeout=240d
 add list=ru-ip address=193.104.87.0/24 timeout=240d
 add list=ru-ip address=193.104.97.0/24 timeout=240d
 add list=ru-ip address=193.104.102.0/24 timeout=240d
