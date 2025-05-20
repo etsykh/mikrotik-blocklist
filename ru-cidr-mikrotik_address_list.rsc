@@ -6436,6 +6436,7 @@ add list=ru-ip address=192.166.123.0/24 timeout=240d
 add list=ru-ip address=192.166.124.0/22 timeout=240d
 add list=ru-ip address=192.166.144.0/23 timeout=240d
 add list=ru-ip address=192.166.232.0/21 timeout=240d
+add list=ru-ip address=192.175.1.0/24 timeout=240d
 add list=ru-ip address=192.188.116.0/24 timeout=240d
 add list=ru-ip address=192.188.187.0/24 timeout=240d
 add list=ru-ip address=192.188.189.0/24 timeout=240d
