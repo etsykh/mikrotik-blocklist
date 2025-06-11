@@ -7933,8 +7933,7 @@ add list=ru-ip address=195.250.51.0/24 timeout=240d
 add list=ru-ip address=195.250.56.0/24 timeout=240d
 add list=ru-ip address=195.254.188.0/23 timeout=240d
 add list=ru-ip address=196.1.5.0/24 timeout=240d
-add list=ru-ip address=203.81.208.0/20 timeout=240d
-add list=ru-ip address=203.81.224.0/20 timeout=240d
+add list=ru-ip address=203.81.208.0/22 timeout=240d
 add list=ru-ip address=212.0.64.0/19 timeout=240d
 add list=ru-ip address=212.1.224.0/19 timeout=240d
 add list=ru-ip address=212.3.128.0/19 timeout=240d
