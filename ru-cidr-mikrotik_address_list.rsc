@@ -4306,7 +4306,8 @@ add list=ru-ip address=109.238.240.0/20 timeout=240d
 add list=ru-ip address=109.239.208.0/20 timeout=240d
 add list=ru-ip address=109.252.0.0/16 timeout=240d
 add list=ru-ip address=109.254.0.0/16 timeout=240d
-add list=ru-ip address=111.88.0.0/16 timeout=240d
+add list=ru-ip address=111.88.144.0/20 timeout=240d
+add list=ru-ip address=111.88.240.0/20 timeout=240d
 add list=ru-ip address=128.0.24.0/21 timeout=240d
 add list=ru-ip address=128.0.66.0/23 timeout=240d
 add list=ru-ip address=128.0.80.0/20 timeout=240d
