@@ -5600,6 +5600,7 @@ add list=ru-ip address=185.113.200.0/22 timeout=240d
 add list=ru-ip address=185.113.208.0/22 timeout=240d
 add list=ru-ip address=185.113.244.0/22 timeout=240d
 add list=ru-ip address=185.114.244.0/22 timeout=240d
+add list=ru-ip address=185.115.92.0/22 timeout=240d
 add list=ru-ip address=185.115.96.0/22 timeout=240d
 add list=ru-ip address=185.115.140.0/22 timeout=240d
 add list=ru-ip address=185.115.156.0/22 timeout=240d
