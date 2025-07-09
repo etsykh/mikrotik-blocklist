@@ -6783,7 +6783,7 @@ add list=ru-ip address=193.111.86.0/24 timeout=240d
 add list=ru-ip address=193.111.156.0/22 timeout=240d
 add list=ru-ip address=193.111.160.0/24 timeout=240d
 add list=ru-ip address=193.111.176.0/22 timeout=240d
-add list=ru-ip address=193.111.250.0/23 timeout=240d
+add list=ru-ip address=193.111.251.0/24 timeout=240d
 add list=ru-ip address=193.111.252.0/22 timeout=240d
 add list=ru-ip address=193.124.48.0/24 timeout=240d
 add list=ru-ip address=193.124.54.0/24 timeout=240d
