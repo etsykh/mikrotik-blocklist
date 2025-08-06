@@ -6670,6 +6670,8 @@ add list=ru-ip address=193.47.240.0/22 timeout=240d
 add list=ru-ip address=193.56.30.0/24 timeout=240d
 add list=ru-ip address=193.56.64.0/22 timeout=240d
 add list=ru-ip address=193.56.72.0/22 timeout=240d
+add list=ru-ip address=193.56.188.0/24 timeout=240d
+add list=ru-ip address=193.56.190.0/24 timeout=240d
 add list=ru-ip address=193.56.202.0/24 timeout=240d
 add list=ru-ip address=193.57.136.0/22 timeout=240d
 add list=ru-ip address=193.58.179.0/24 timeout=240d
