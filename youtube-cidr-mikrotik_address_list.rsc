@@ -241,10 +241,12 @@ add list=youtube address=142.250.109.0/24 timeout=240d
 add list=youtube address=142.250.110.0/23 timeout=240d
 add list=youtube address=142.250.112.0/22 timeout=240d
 add list=youtube address=142.250.117.0/24 timeout=240d
+add list=youtube address=142.250.120.0/24 timeout=240d
 add list=youtube address=142.250.123.0/24 timeout=240d
 add list=youtube address=142.250.125.0/24 timeout=240d
 add list=youtube address=142.250.126.0/24 timeout=240d
 add list=youtube address=142.250.128.0/23 timeout=240d
+add list=youtube address=142.250.130.0/24 timeout=240d
 add list=youtube address=142.250.136.0/22 timeout=240d
 add list=youtube address=142.250.140.0/23 timeout=240d
 add list=youtube address=142.250.142.0/24 timeout=240d
@@ -274,6 +276,7 @@ add list=youtube address=142.251.32.0/21 timeout=240d
 add list=youtube address=142.251.40.0/22 timeout=240d
 add list=youtube address=142.251.45.0/24 timeout=240d
 add list=youtube address=142.251.46.0/23 timeout=240d
+add list=youtube address=142.251.98.0/24 timeout=240d
 add list=youtube address=142.251.107.0/24 timeout=240d
 add list=youtube address=142.251.108.0/24 timeout=240d
 add list=youtube address=142.251.111.0/24 timeout=240d
