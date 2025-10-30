@@ -337,7 +337,7 @@ add list=youtube address=168.143.171.0/24 timeout=240d
 add list=youtube address=172.217.0.0/19 timeout=240d
 add list=youtube address=172.217.68.0/24 timeout=240d
 add list=youtube address=172.217.70.0/24 timeout=240d
-add list=youtube address=172.217.75.0/24 timeout=240d
+add list=youtube address=172.217.74.0/23 timeout=240d
 add list=youtube address=172.217.78.0/24 timeout=240d
 add list=youtube address=172.217.129.0/24 timeout=240d
 add list=youtube address=172.217.130.0/24 timeout=240d
