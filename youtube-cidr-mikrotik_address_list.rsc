@@ -443,6 +443,7 @@ add list=youtube address=192.178.156.0/23 timeout=240d
 add list=youtube address=192.178.162.0/23 timeout=240d
 add list=youtube address=192.178.164.0/24 timeout=240d
 add list=youtube address=192.178.170.0/24 timeout=240d
+add list=youtube address=192.178.187.0/24 timeout=240d
 add list=youtube address=192.178.188.0/24 timeout=240d
 add list=youtube address=192.178.192.0/24 timeout=240d
 add list=youtube address=192.178.202.0/23 timeout=240d
