@@ -281,8 +281,7 @@ add list=youtube address=142.251.107.0/24 timeout=240d
 add list=youtube address=142.251.108.0/24 timeout=240d
 add list=youtube address=142.251.111.0/24 timeout=240d
 add list=youtube address=142.251.112.0/24 timeout=240d
-add list=youtube address=142.251.116.0/23 timeout=240d
-add list=youtube address=142.251.118.0/24 timeout=240d
+add list=youtube address=142.251.116.0/22 timeout=240d
 add list=youtube address=142.251.120.0/23 timeout=240d
 add list=youtube address=142.251.128.0/23 timeout=240d
 add list=youtube address=142.251.130.0/24 timeout=240d
@@ -353,8 +352,7 @@ add list=youtube address=172.217.203.0/24 timeout=240d
 add list=youtube address=172.217.204.0/24 timeout=240d
 add list=youtube address=172.217.208.0/23 timeout=240d
 add list=youtube address=172.217.211.0/24 timeout=240d
-add list=youtube address=172.217.212.0/24 timeout=240d
-add list=youtube address=172.217.214.0/23 timeout=240d
+add list=youtube address=172.217.212.0/22 timeout=240d
 add list=youtube address=172.217.217.0/24 timeout=240d
 add list=youtube address=172.217.218.0/23 timeout=240d
 add list=youtube address=172.217.221.0/24 timeout=240d
