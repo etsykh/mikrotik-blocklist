@@ -6425,7 +6425,7 @@ add list=ru-ip address=153.80.153.0/24 timeout=240d
 add list=ru-ip address=153.80.180.0/22 timeout=240d
 add list=ru-ip address=153.80.184.0/23 timeout=240d
 add list=ru-ip address=153.80.186.0/24 timeout=240d
-add list=ru-ip address=153.80.224.0/21 timeout=240d
+add list=ru-ip address=153.80.224.0/20 timeout=240d
 add list=ru-ip address=153.80.244.0/22 timeout=240d
 add list=ru-ip address=153.80.248.0/24 timeout=240d
 add list=ru-ip address=153.80.249.0/25 timeout=240d
