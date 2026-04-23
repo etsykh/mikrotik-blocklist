@@ -1,5 +1,6 @@
 /ip firewall address-list
 add list=ru-ip address=2.26.8.0/24 timeout=240d
+add list=ru-ip address=2.26.23.0/24 timeout=240d
 add list=ru-ip address=2.26.89.0/24 timeout=240d
 add list=ru-ip address=2.26.104.0/24 timeout=240d
 add list=ru-ip address=2.26.119.0/24 timeout=240d
@@ -2729,7 +2730,8 @@ add list=ru-ip address=84.54.4.0/22 timeout=240d
 add list=ru-ip address=84.54.16.0/22 timeout=240d
 add list=ru-ip address=84.54.28.0/22 timeout=240d
 add list=ru-ip address=84.54.36.0/22 timeout=240d
-add list=ru-ip address=84.54.44.0/22 timeout=240d
+add list=ru-ip address=84.54.44.0/24 timeout=240d
+add list=ru-ip address=84.54.47.0/24 timeout=240d
 add list=ru-ip address=84.54.52.0/23 timeout=240d
 add list=ru-ip address=84.54.55.0/24 timeout=240d
 add list=ru-ip address=84.54.56.0/22 timeout=240d
