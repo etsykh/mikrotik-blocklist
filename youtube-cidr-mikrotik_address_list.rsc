@@ -255,7 +255,7 @@ add list=youtube address=142.250.136.0/22 timeout=240d
 add list=youtube address=142.250.140.0/23 timeout=240d
 add list=youtube address=142.250.142.0/24 timeout=240d
 add list=youtube address=142.250.145.0/24 timeout=240d
-add list=youtube address=142.250.147.0/24 timeout=240d
+add list=youtube address=142.250.146.0/23 timeout=240d
 add list=youtube address=142.250.148.0/22 timeout=240d
 add list=youtube address=142.250.152.0/23 timeout=240d
 add list=youtube address=142.250.154.0/24 timeout=240d
