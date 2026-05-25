@@ -747,6 +747,8 @@ add list=ru-ip address=45.8.208.0/23 timeout=240d
 add list=ru-ip address=45.8.210.0/24 timeout=240d
 add list=ru-ip address=45.8.228.0/22 timeout=240d
 add list=ru-ip address=45.8.248.0/22 timeout=240d
+add list=ru-ip address=45.9.12.0/22 timeout=240d
+add list=ru-ip address=45.9.16.0/24 timeout=240d
 add list=ru-ip address=45.9.24.0/22 timeout=240d
 add list=ru-ip address=45.9.40.0/22 timeout=240d
 add list=ru-ip address=45.9.73.0/24 timeout=240d
