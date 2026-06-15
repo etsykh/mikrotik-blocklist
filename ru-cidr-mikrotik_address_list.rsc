@@ -6511,7 +6511,8 @@ add list=ru-ip address=154.85.91.0/24 timeout=240d
 add list=ru-ip address=154.85.93.0/24 timeout=240d
 add list=ru-ip address=154.90.64.0/24 timeout=240d
 add list=ru-ip address=154.90.66.0/24 timeout=240d
-add list=ru-ip address=154.90.68.0/22 timeout=240d
+add list=ru-ip address=154.90.68.0/23 timeout=240d
+add list=ru-ip address=154.90.70.0/24 timeout=240d
 add list=ru-ip address=154.90.72.0/21 timeout=240d
 add list=ru-ip address=154.93.33.0/24 timeout=240d
 add list=ru-ip address=154.203.163.0/24 timeout=240d
