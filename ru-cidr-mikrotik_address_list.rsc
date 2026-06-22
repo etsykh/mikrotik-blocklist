@@ -3242,7 +3242,7 @@ add list=ru-ip address=89.31.112.0/21 timeout=240d
 add list=ru-ip address=89.31.184.0/21 timeout=240d
 add list=ru-ip address=89.31.220.0/22 timeout=240d
 add list=ru-ip address=89.36.140.0/24 timeout=240d
-add list=ru-ip address=89.37.193.0/24 timeout=240d
+add list=ru-ip address=89.37.192.0/23 timeout=240d
 add list=ru-ip address=89.44.86.0/23 timeout=240d
 add list=ru-ip address=89.104.64.0/19 timeout=240d
 add list=ru-ip address=89.104.96.0/22 timeout=240d
