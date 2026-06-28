@@ -12214,6 +12214,7 @@ add list=ru-ip address=93.189.224.0/23 timeout=240d
 add list=ru-ip address=93.191.96.0/21 timeout=240d
 add list=ru-ip address=94.137.78.0/23 timeout=240d
 add list=ru-ip address=94.137.90.0/23 timeout=240d
+add list=ru-ip address=94.183.202.0/24 timeout=240d
 add list=ru-ip address=95.46.16.0/20 timeout=240d
 add list=ru-ip address=95.46.46.0/24 timeout=240d
 add list=ru-ip address=95.46.200.0/21 timeout=240d
