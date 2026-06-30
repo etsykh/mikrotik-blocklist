@@ -455,6 +455,7 @@ add list=youtube address=192.178.52.0/24 timeout=240d
 add list=youtube address=192.178.54.0/24 timeout=240d
 add list=youtube address=192.178.56.0/23 timeout=240d
 add list=youtube address=192.178.128.0/22 timeout=240d
+add list=youtube address=192.178.134.0/24 timeout=240d
 add list=youtube address=192.178.142.0/24 timeout=240d
 add list=youtube address=192.178.152.0/22 timeout=240d
 add list=youtube address=192.178.156.0/23 timeout=240d
@@ -464,6 +465,7 @@ add list=youtube address=192.178.164.0/24 timeout=240d
 add list=youtube address=192.178.170.0/24 timeout=240d
 add list=youtube address=192.178.173.0/24 timeout=240d
 add list=youtube address=192.178.174.0/24 timeout=240d
+add list=youtube address=192.178.177.0/24 timeout=240d
 add list=youtube address=192.178.183.0/24 timeout=240d
 add list=youtube address=192.178.187.0/24 timeout=240d
 add list=youtube address=192.178.188.0/24 timeout=240d
