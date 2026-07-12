@@ -497,6 +497,7 @@ add list=ru-ip address=31.131.190.0/23 timeout=240d
 add list=ru-ip address=31.131.192.0/19 timeout=240d
 add list=ru-ip address=31.131.248.0/21 timeout=240d
 add list=ru-ip address=31.132.32.0/22 timeout=240d
+add list=ru-ip address=31.132.46.0/24 timeout=240d
 add list=ru-ip address=31.132.96.0/19 timeout=240d
 add list=ru-ip address=31.132.128.0/18 timeout=240d
 add list=ru-ip address=31.132.208.0/20 timeout=240d
