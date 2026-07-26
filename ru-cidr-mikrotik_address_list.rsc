@@ -12693,6 +12693,7 @@ add list=ru-ip address=45.132.194.0/24 timeout=240d
 add list=ru-ip address=45.134.26.0/24 timeout=240d
 add list=ru-ip address=45.135.234.0/24 timeout=240d
 add list=ru-ip address=45.145.160.0/24 timeout=240d
+add list=ru-ip address=45.149.175.0/24 timeout=240d
 add list=ru-ip address=45.151.96.0/23 timeout=240d
 add list=ru-ip address=45.152.213.0/24 timeout=240d
 add list=ru-ip address=45.153.53.0/24 timeout=240d
