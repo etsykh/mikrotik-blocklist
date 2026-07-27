@@ -7131,6 +7131,7 @@ add list=ru-ip address=157.167.51.0/24 timeout=240d
 add list=ru-ip address=157.186.0.0/16 timeout=240d
 add list=ru-ip address=157.228.64.0/19 timeout=240d
 add list=ru-ip address=157.228.96.0/20 timeout=240d
+add list=ru-ip address=157.228.136.0/23 timeout=240d
 add list=ru-ip address=157.228.140.0/23 timeout=240d
 add list=ru-ip address=157.228.142.0/24 timeout=240d
 add list=ru-ip address=158.46.0.0/17 timeout=240d
