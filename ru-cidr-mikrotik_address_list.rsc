@@ -11767,7 +11767,6 @@ add list=ru-ip address=201.4.107.0/24 timeout=240d
 add list=ru-ip address=201.4.108.0/24 timeout=240d
 add list=ru-ip address=201.4.116.0/24 timeout=240d
 add list=ru-ip address=201.4.124.0/24 timeout=240d
-add list=ru-ip address=201.10.90.0/24 timeout=240d
 add list=ru-ip address=201.24.60.0/22 timeout=240d
 add list=ru-ip address=201.24.112.0/20 timeout=240d
 add list=ru-ip address=201.34.128.0/20 timeout=240d
