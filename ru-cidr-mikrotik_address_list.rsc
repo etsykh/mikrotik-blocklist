@@ -3215,6 +3215,7 @@ add list=ru-ip address=86.111.2.0/23 timeout=240d
 add list=ru-ip address=86.111.4.0/22 timeout=240d
 add list=ru-ip address=86.111.8.0/21 timeout=240d
 add list=ru-ip address=86.111.16.0/20 timeout=240d
+add list=ru-ip address=87.58.220.0/24 timeout=240d
 add list=ru-ip address=87.76.0.0/20 timeout=240d
 add list=ru-ip address=87.84.0.0/24 timeout=240d
 add list=ru-ip address=87.103.128.0/17 timeout=240d
