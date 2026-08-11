@@ -1,5 +1,6 @@
 /ip firewall address-list
 add list=youtube address=4.78.139.0/24 timeout=240d
+add list=youtube address=11.11.11.0/24 timeout=240d
 add list=youtube address=23.101.24.0/24 timeout=240d
 add list=youtube address=23.202.231.0/24 timeout=240d
 add list=youtube address=23.217.138.0/24 timeout=240d
